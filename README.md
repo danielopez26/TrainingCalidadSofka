@@ -2,7 +2,7 @@
 Prueba técnica para el training de calidad SOFKA
 
 TECNOLOGIAS USADAS
-El algoritmo fue contruido en javascript y para la parte grafica se uso html y css
+El algoritmo fue contruido en javascript y para la parte grafica se uso html y css, no se hizo uso de frameworks o plantillas
 
 EJECUCION
 No necesita librerias adicionales
